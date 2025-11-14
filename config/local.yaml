@@ -1,0 +1,6 @@
+# this will contain all variables for development config
+
+env: "dev"
+storage_path: "storage/storage.db"  # for sqlite db (file based)
+http_server:
+  address: "localhost:8082"
